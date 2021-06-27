@@ -29,8 +29,8 @@ class HyperactiveConfig {
             "@tertiaryValue" : "data.resources.tertiary.value",
             "@tertiaryMax" : "data.resources.tertiary.max",
             "@dmgImm" : "data.traits.di.value",
-            "@damRes" : "data.traits.dr.value",
-            "@damVul" : "data.traits.dv.value",
+            "@dmgRes" : "data.traits.dr.value",
+            "@dmgVul" : "data.traits.dv.value",
             "@languages" : "data.traits.languages.value"
         }
         this.currentSystem = this[game.system.id]
